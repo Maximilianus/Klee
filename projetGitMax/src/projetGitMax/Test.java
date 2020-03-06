@@ -7,6 +7,7 @@ public class Test
 	{
 		System.out.println("Bien le bonjour");
 		System.out.println("C'EST LA VERSION 2!!!!!!!!!!!!!");
+		System.out.println("Troaziaime ligne");
 	}
 
 }
